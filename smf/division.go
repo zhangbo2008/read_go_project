@@ -1,4 +1,4 @@
-package smf
+package smf//这个库包里面的东西是创造音乐用的.
 
 //SMTPE time division midi valid codes
 const (
