@@ -1,5 +1,5 @@
 package smf
-
+//因为test要测得是包内部变量,需要测小写开头的,所以test要写在同样的包内部.
 import "testing"
 
 func TestCheckSMTPE(t *testing.T) {
