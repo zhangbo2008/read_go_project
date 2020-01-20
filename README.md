@@ -1,1 +1,0 @@
-# read_go_project
