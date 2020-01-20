@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
+<<<<<<< HEAD
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/smfio" />
       <excludeFolder url="file://$MODULE_DIR$/vlq" />
     </content>
+=======
+    <content url="file://$MODULE_DIR$" />
+>>>>>>> ec1db8e57cead1d8583e9a9b049bd27bddfaed6e
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
